@@ -1,6 +1,6 @@
 # Cracking Caesar's Cipher
 
-This is another python program that cracks the Caesar cipher using brute-force.
+This is another python program that cracks the Caesar cipher using brute-force. I struggled with creating a playable link, but I eventually figured out how to make the release and run it on Terminal.
 
 ## How to Run on macOS
 
